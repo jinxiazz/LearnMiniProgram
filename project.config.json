@@ -40,7 +40,7 @@
     "minifyWXSS": true
   },
   "compileType": "miniprogram",
-  "libVersion": "2.0.4",
+  "libVersion": "2.7.1",
   "appid": "wx3034180fbacc905d",
   "projectname": "MiniProgram",
   "debugOptions": {

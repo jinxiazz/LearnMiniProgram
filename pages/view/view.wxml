@@ -1,0 +1,6 @@
+<!--pages/view/view.wxml-->
+<text>pages/view/view.wxml</text>
+<view class="fu" hover-class="fu_click">
+  <view class="zi" hover-class="zi_click" hover-stop-propagation>view组件--子</view>
+  view组件--父
+</view>

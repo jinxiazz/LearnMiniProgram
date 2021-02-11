@@ -1,0 +1,19 @@
+/* pages/view/view.wxss */
+.fu{
+  width: 200px;
+  height: 200px;
+  background-color: skyblue;
+}
+.zi{
+  width: 100px;
+  height: 100px;
+  background-color: orange;
+}
+
+.fu_click{
+  background-color: blue;
+}
+
+.zi_click{
+  background-color: rebeccapurple;
+}

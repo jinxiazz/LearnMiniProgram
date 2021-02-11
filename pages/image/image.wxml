@@ -1,0 +1,13 @@
+<!--pages/image/image.wxml-->
+<text>pages/image/image.wxml</text>
+<image src="/assets/1.jpg"  show-menu-by-longpress mode="widthFix"/>
+<image src="../../assets/1.jpg" />
+
+<button size="mini" bindtap="getImgPath">点击选择图片</button>
+<image src="{{imgPath}}"></image>
+
+<image src="/assets/1.jpg" bindload="imgLoad" />
+<image src="/assets/1.jpg" bindload="imgLoad" lazy-load />
+<image src="/assets/1.jpg" bindload="imgLoad" lazy-load />
+<image src="/assets/1.jpg" bindload="imgLoad" lazy-load />
+<image src="/assets/1.jpg" bindload="imgLoad" lazy-load />

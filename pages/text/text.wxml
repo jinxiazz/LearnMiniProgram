@@ -1,0 +1,8 @@
+<!--pages/text/text.wxml-->
+<text>pages/text/text.wxml\n</text>
+
+<text selectable>长按可选中\n</text>
+
+<text space="emsp">空 格\n</text>
+
+<text decode>5 &gt; 3</text>
